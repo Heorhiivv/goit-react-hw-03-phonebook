@@ -1,0 +1,10 @@
+.PhoneBookForm {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border: 1px solid black;
+}
+.PhoneBookInput {
+  margin-bottom: 15px;
+}

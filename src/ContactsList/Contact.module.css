@@ -1,0 +1,7 @@
+.contactItem {
+  display: flex;
+  align-items: center;
+}
+.itemText {
+  margin-right: 20px;
+}
